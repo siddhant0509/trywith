@@ -1,2 +1,2 @@
 # trywith
-Try With Monad Implementation
+An Error Container with Functor API
